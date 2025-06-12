@@ -1,4 +1,5 @@
 PROYECTO: CONFIGURACIÓN BASE DE ORDENADORES DE OFICINA CON ANSIBLE
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 RESUMEN
 Este proyecto consiste en automatizar la configuración inicial del número de ordenadores que sea de oficina mediante Ansible desde un nodo controlador. El objetivo es crear un usuario único en cada ordenador, instalar software común y aplicar configuraciones básicas del sistema.
 OBJETIVOS
