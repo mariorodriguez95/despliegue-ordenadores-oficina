@@ -64,5 +64,7 @@ Se comprueba que en cada ordenador se haya creado el usuario correcto y que los 
 LECCIONES APRENDIDAS
 
 Automatización: cómo gestionar usuarios y software en múltiples nodos con roles de Ansible.
+
 Gestión de inventarios: uso de archivos YAML para mapear ordenadores y usuarios.
+
 Escalabilidad: configurar varios equipos desde un solo punto de control simplifica el mantenimiento.
