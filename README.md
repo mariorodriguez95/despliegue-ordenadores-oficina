@@ -22,20 +22,12 @@ Crear archivo de inventario con los nodos y sus ips.
 
 CREACIÓN DE LA ESTRUCTURA DE ANSIBLE
 
-ansible-office-setup/
-├── inventory/
-│   └── hosts.ini
-├── playbook.yml
-├── users_map.yml
-├── group_vars/
-│   └── all.yml
-└── roles/
-    ├── users/
-    │   └── tasks/
-    │       └── main.yml
-    └── packages/
-        └── tasks/
-            └── main.yml
+ansible-office-setup/inventory/hosts.ini
+ansible-office-setup/playbook.yml
+ansible-office-setup/users_map.yml
+ansible-office-setup/group_vars/all.yml
+roles/users/tasks/main.yml
+roles/packages/tasks/main.yml
 
 DEFINICIÓN DEL INVENTARIO (inventory/hosts.ini)
 
